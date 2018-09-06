@@ -1,3 +1,3 @@
 # Java
-This respository contains the Java samples used in http://explorejava.com
-The Module StreamsExample contains the code for streams tutorial.
+This respository contains the Java samples.
+1. StreamsExample contains the code for Java 8 streams.
